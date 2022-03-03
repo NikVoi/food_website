@@ -1,0 +1,25 @@
+.group6 {
+    height: 800px;
+    background-image: url('/img/24.png');
+    background-repeat: no-repeat;
+    background-position: -20px -80px;
+}
+.group6__bg {
+    height: 800px;
+    background-image: url('/img/Shape.png');
+    opacity: .8;
+}
+.group6__contant {
+    text-align: center;
+    width: 1200px;
+    padding: 260px 0 0 150px;
+}
+.group6__text {
+    font-family: 'Montserrat Regular';
+    font-size: 45px;
+    padding: 0 0 50px 0;
+}
+.group6__title {
+    font-family: 'Grand Hotel';
+    font-size: 74px;
+}

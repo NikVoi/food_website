@@ -1,0 +1,58 @@
+.group7 {
+    height: 800px;
+    background-image: url('../img/21.png'),url('../img/20.png'),url('../img/20.png'),url('../img/20.png'),url('../img/19.png'),url('../img/18.png') ,url('../img/17.png'),url('../img/16.png'),url('../img/15.png');
+    background-repeat: no-repeat;
+    background-position: 800px 620px,83px 630px ,335px 80px,1190px 190px,55px 130px,1200px 660px ,1260px 460px, 975px 35px, 340px 650px;
+}
+.group7__gb {
+    height: 800px;
+    background-image: url('../img/Shape_2.png');
+    background-repeat: no-repeat;
+    opacity: .7;
+}
+.group7__content {
+    display: inline-block;
+    width: 1100px;
+    text-align: center;
+    padding: 150px 0 0 250px;
+}
+.group7__title {
+    font-family: 'Grand Hotel';
+    font-size: 100px;
+    color: black;
+    padding: 0 0 50px 0;
+
+}
+.group7__text {
+    font-family: 'Montserrat Regular';
+    font-size: 30px;
+    color: black;
+    padding: 0 0 80px 0;
+}
+.group7__button {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 12.5px 50px 12.5px 50px;
+    background: #ffc200;
+    color: black;
+}
+.group7__button:hover{
+    background: #b68c06;
+    transition: .3s;
+}
+.group7__adress{
+    margin: 0 0 0 80px;
+    display: flex;
+    width: 700px;
+    height: 50px;
+    filter: drop-shadow(0px 0px 100px rgba(0, 0, 0, 0.15));
+}
+.group7__mail{
+    font-family: 'Montserrat Regular';
+    padding: 0 0 0 20px;
+    color: #939393;
+    font-size: 25px;
+    height: 50px;
+    width: 1350px;
+}

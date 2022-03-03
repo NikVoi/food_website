@@ -1,12 +1,9 @@
 .group4 {
-    background-color: #303030;
+    background-color: #2f2f2f;
     height: 800px;
     background-image: url('../img/21.png'),url('../img/20.png'),url('../img/20.png'),url('../img/20.png'),url('../img/19.png'),url('../img/18.png') ,url('../img/17.png'),url('../img/16.png'),url('../img/15.png');
     background-repeat: no-repeat;
-    background-position: 860px 590px,83px 600px ,335px 100px,1190px 160px,55px 100px,1100px 630px ,1260px 430px, 975px 0px, 340px 620px;
-}
-.group4__content {
-   
+    background-position: 800px 590px,83px 600px ,335px 100px,1190px 160px,55px 100px,1200px 630px ,1260px 430px, 975px 0px, 340px 620px;
 }
 .content__titilemain {
     font-size: 100px;

@@ -1,0 +1,54 @@
+.footer {
+    height: 800px;
+    background: #333;
+    display: flex;
+}
+.footer__textfirst{
+    text-transform: uppercase;
+    font-family: 'Montserrat Regular';
+    font-size: 24px;
+    color: white;
+    width: 450px;
+    padding: 0 0 40px 0;
+    line-height: 30px;
+}
+.footer__titile {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    padding: 0 0 40px 0;
+}
+.footer__text {
+    font-family: 'Montserrat Regular', sans-serif;
+    font-size: 23px;
+    color: white;
+    width: 210px;
+    height: 260px;
+    line-height: 40px;
+}
+.footer__colum1 {
+    padding: 250px 0 0 90px;
+    width: 480px;
+    height: 260px;
+}
+.footer__icon {
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+}
+.footer__colum2 {
+    padding: 250px 0 0 180px;
+    width: 210px;
+    height: 260px;
+}
+.footer__colum3 {
+    padding: 250px 0 0 210px;
+    width: 210px;
+    height: 260px;
+}
+.footer__colum4 {
+    padding: 250px 0 0 230px;
+    width: 210px;
+    height: 260px;
+}
