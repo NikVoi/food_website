@@ -1,0 +1,47 @@
+.group4 {
+    background-color: #303030;
+    height: 800px;
+    background-image: url('../img/21.png'),url('../img/20.png'),url('../img/20.png'),url('../img/20.png'),url('../img/19.png'),url('../img/18.png') ,url('../img/17.png'),url('../img/16.png'),url('../img/15.png');
+    background-repeat: no-repeat;
+    background-position: 860px 590px,83px 600px ,335px 100px,1190px 160px,55px 100px,1100px 630px ,1260px 430px, 975px 0px, 340px 620px;
+}
+.group4__content {
+   
+}
+.content__titilemain {
+    font-size: 100px;
+    font-family: 'Grand Hotel';
+    color: #ffc200;
+    padding: 0 0 46px 0;
+    text-align: center;
+}
+.content__text {
+    
+    color: white;
+    font-style: 24px;
+    text-align: center;
+    padding: 0 0 90px 0;
+}
+.content__circle {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    height: 230px;
+}
+.circle{
+    padding: 60px 0 0 0;
+    border: 5px solid white;
+    border-radius: 50%;
+    width: 230px;
+    font-weight: bold;
+}
+
+.content__titlecircle {
+    font-size: 50px;
+    color: #ffc200;
+    padding: 0 0 20px 0;
+}
+.content__textcircle {
+    text-transform: uppercase;
+    color: white;
+}

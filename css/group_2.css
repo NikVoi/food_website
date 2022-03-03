@@ -1,0 +1,76 @@
+.group2 {
+    height: 795px;
+}
+.group__text {
+    
+    padding: 139px 0 67px 0;
+}
+.group__title{
+    font-family: 'Grand Hotel';
+    font-size: 75px;
+    text-align: center;
+
+}
+.group__txt{
+    padding: 48px 0 0 0;
+    text-align: center;
+
+}
+.content {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.content__title{
+    font-family: 'Grand Hotel';
+    font-size: 41px;
+    padding: 10px;
+}
+.content__text{
+    font-size: 17px;
+}
+.group3{
+    height: 795px;
+    padding: 202px 0  0 0;
+    background-image: url('../img/14.png') ;
+    background-repeat: no-repeat;
+}
+.conteiner {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.group__img{
+    padding: 0 0 0 80px;
+}
+
+.group__content {
+    padding: 0 96px 0 103px;
+}
+.group3__text{
+    padding: 53px 0 65px 0;
+    color: white;
+}
+.group3__title{
+    font-family: 'Grand Hotel';
+    font-size: 100px;
+    color: #ffc200;
+
+}
+.group3__button {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 0px solid #ffc200;
+    width: 250px;
+    text-align: center;
+    padding: 12.5px;
+    background: #ffc200;
+    color: #333;
+    border-radius: 5px;
+}
+.group3__button:hover{
+    background: #b68c06;
+    transition: .3s;
+}
