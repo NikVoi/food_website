@@ -1,0 +1,28 @@
+.group_6 {
+    height: 800px;
+    background-image: url('/img/24.png');
+    background-repeat: no-repeat;
+    background-position: -20px -80px;
+    
+}
+.group_6 img{  
+    display: inline-block;
+    height: 800px;
+    opacity: .8;
+}
+.group_6__contant {
+    position: relative;
+    color: #333;
+    text-align: center;
+    width: 940px;
+    top: -550px;
+    left: 200px;
+}
+.group_6__text {
+    font-size: 45px;
+    padding: 0 0 50px 0;
+}
+.group_6__title {
+    font-family: 'Grand Hotel';
+    font-size: 74px;
+}

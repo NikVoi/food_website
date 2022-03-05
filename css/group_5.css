@@ -1,29 +1,29 @@
-.group5 {
+.group_5 {
     height: 800px;
     background-image: url('/img/23.png'), url('/img/08.png');
     background-repeat: no-repeat;
-    background-size: 100% 600px, 100% 200px;
+    background-position: -90px -350px;
 }
-.group5__conteiner {
-    padding: 130px 0 0 120px;
+.group_5__conteiner {
+    padding: 150px 0 0 120px;
     width: 1300px;
 }
-.group5__content {
+.group_5__content {
     display: inline-block;
 }
-.group5_title {
+.group_5_title {
     color: #ffc200;
     font-family: 'Grand Hotel';
     font-size: 100px;
     padding: 0 0 55px 0;
 }
-.group5__text {
+.group_5__text {
     color: white;
     font-size: 30px;
     width: 500px;
     padding: 0 0 70px 0;
 }
-.group5__button {
+.group_5__button {
     display: inline-block;
     text-transform: uppercase;
     font-weight: bold;
@@ -35,11 +35,11 @@
     color: #333;
     border-radius: 5px;
 }
-.group5__button:hover{
+.group_5__button:hover{
     background: #b68c06;
     transition: .3s;
 }
-.group5__img {
+.group_5__img {
     display: inline;
     padding:  0 0 0 120px;
 }

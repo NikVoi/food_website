@@ -1,0 +1,30 @@
+.group_3{
+    height: 800px;
+    background-image: url('../img/13.png') ,url('../img/14.png') ;
+    background-repeat: no-repeat;
+    background-position: 135px 255px , 0 150px ;
+}
+.group_3__content {
+    padding: 350px 96px 0 700px;
+}
+.group_3__text{
+    padding: 53px 0 65px 0;
+    color: white;
+}
+.group_3__title{
+    font-family: 'Grand Hotel';
+    font-size: 100px;
+    color: #ffc200;
+}
+.group_3__button {
+    color: #303030;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 12.5px 50px 12.5px 50px;
+    border-radius: 5px;
+    background: #ffc200;
+}
+.group_3__button:hover{
+    background: #b68c06;
+    transition: .3s;
+}

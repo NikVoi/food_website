@@ -1,0 +1,46 @@
+.header {
+    width: 100%;
+    height: 796px;
+    background-color: #303030;
+    background-image:url('../img/00.png') ,url('../img/07.png') ,url('../img/06.png'),url('../img/06.png') ,url('../img/06.png') ,url('../img/06.png'),url('../img/05.png'), url('../img/04.png'), url('../img/03.png'), url('../img/02.png') , url('../img/09.png'),url('../img/01.png');
+    background-repeat: no-repeat;
+    background-position: 60px 40px,790px 640px , 1069px 670px , 620px 110px , 630px 640px, 1179px 290px, 520px 300px , 1239px 730px ,1200px 512px, 1100px 125px, center ,left;
+}
+.header__nav{
+    word-spacing: 55px;
+    padding: 40px 0 0 520px;
+}
+.header__link{
+    color: white;
+}
+.header__link:hover{
+    color: #ffc200;
+    transition: .5s;
+}
+
+.header__content {
+    padding: 150px 0 0 650px;
+}
+.header__h1 {
+    font-family: 'Grand Hotel';
+    color: #ffc200;
+    font-size: 125px;
+    padding: 0 0 50px 0;
+}
+.heade__text {
+    width: 610px;
+    font-size: 30px;
+    padding: 0 0 60px 0;
+}
+.header__button {
+    color: #303030;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 12.5px 50px 12.5px 50px;
+    background: #ffc200;
+    border-radius: 5px;
+}
+.header__button:hover{
+    background: #b68c06;
+    transition: .3s;
+}
